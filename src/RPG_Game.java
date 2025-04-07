@@ -15,7 +15,7 @@ public class RPG_Game {
         Berserk berserk = new Berserk("Konan", 260, 15);
         King theKing = new King("Charlth", 300,0);
         TheAvenger Avanger =new TheAvenger("Capitan America",300,15);
-        Ludoman ludoman = new Ludoman( "Frank",200,10);
+        LUDAMAN ludoman = new LUDAMAN( "Frank",200,10);
         Hero[] heroes = {warrior1, doc, warrior2, magic, berserk, assistant,theKing,Avanger,ludoman};
         printStatistics(boss, heroes);
 
