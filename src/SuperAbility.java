@@ -4,5 +4,6 @@ public enum SuperAbility {
     BOOST,
     BLOCK_AND_REVERT,
     SUMMON_SAITAMA,
-    SUPER_ARMOR
+    SUPER_ARMOR,
+    LUCKSHOOT
 }
